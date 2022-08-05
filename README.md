@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vasarv
+- 👀 I’m interested in python (Programming language) and Photoshop.
+- 🐍 I’m currently learning python
+- ⚛️ My favorite IDE is Atom by github.
+- I love coding discord bots
