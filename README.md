@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasarv!
-- 👀 I’m interested in python (Programming language) and Photoshop.
-- 🐍 I’m currently learning python.
-- ⚛️ My favorite IDE is Atom by github.
-- 🤖 I like coding discord bots.
+- 👀 I’m interested in python (Programming language), C# and Photoshop.
+- 🐍 I’m currently learning C#.
+- ⚛️ My favorite IDE is VS code.
+- 🤖 I like coding.
